@@ -1,4 +1,4 @@
-# Simple-Calculator-C-
+# Simple-Calculator by using C++ -
 A Simple Calculator application using C++
 
 ## Features
